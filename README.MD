@@ -55,7 +55,7 @@ module:{
 }
 ```
 上面loader执行顺序就是loader1-loader2-loader3  
-loader默认是由两部分组成，分别是pitch和normal
+loader默认是由两部分组成，分别是pitch和normal。  ![](./images/loader1.png)  ![](./images/loader2.png)
 
 ## loader特点
 1. 第一个loader要返回js脚本  

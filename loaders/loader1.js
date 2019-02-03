@@ -3,4 +3,7 @@ function loader(source){
     return source;
 }
 
+loader.pitch=function(){
+    console.log('pitch1');
+}
 module.exports=loader;
