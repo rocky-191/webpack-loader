@@ -1,0 +1,9 @@
+{
+  "name": "mgl-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "m-pack":"./bin/m-pack.js"
+  }
+}

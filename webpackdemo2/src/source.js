@@ -1,0 +1,1 @@
+export default 'hello world and how are you';
